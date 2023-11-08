@@ -8,7 +8,7 @@
 
 ![trophy](https://skillicons.dev/icons?i=androidstudio,java,arduino,vscode,py,stackoverflow,git,github,mongodb,supabase&perline=18)
 <hr>  
-### KNOW MORE...✅
+## KNOW MORE...
 <p align="center"><a href="https://github.com/SPARKBRO><img title="SPARKBRO" src="https://github-readme-stats.vercel.app/api?username=SPARKBRO&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
 
