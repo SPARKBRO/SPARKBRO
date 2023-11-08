@@ -6,7 +6,7 @@
 
 ### 💻 Languages and Tools
 
-!trophy
+
 <hr>  
 
 ### KNOW MORE...✅
@@ -22,7 +22,7 @@
 <a href="https://t.me/SPA4KBRO"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
 
 <p align="center">
-<a href="https://github.com/SPARKBRO"><img title="SPARK BRO" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPARKBRO&layout=compact"></a>
+<a href="https://github.com/SPARKBRO"><img title="SPARK BRO" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPARKBRO&layout=compact"></a></p>
 
   
 !Visitor Count
