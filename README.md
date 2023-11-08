@@ -6,9 +6,8 @@
 
 ### 💻 Languages and Tools
 
-
+![trophy](https://skillicons.dev/icons?i=androidstudio,java,arduino,vscode,py,stackoverflow,git,github,mongodb,supabase&perline=18)
 <hr>  
-
 ### KNOW MORE...✅
 <p align="center"><a href="https://github.com/SPARKBRO><img title="SPARKBRO" src="https://github-readme-stats.vercel.app/api?username=SPARKBRO&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
@@ -25,4 +24,4 @@
 <a href="https://github.com/SPARKBRO"><img title="SPARK BRO" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPARKBRO&layout=compact"></a></p>
 
   
-!Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/SPARKBRO/count.svg)
