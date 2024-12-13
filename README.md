@@ -26,3 +26,26 @@
 
   
 ![Visitor Count](https://profile-counter.glitch.me/SPARKBRO/count.svg)
+
+class Anonymous():
+    def __init__(self):
+        self.name = ['SPARKBRO']
+        self.country = ['India']
+        self.language = ['Malayalam', 'English', 'हिंदी', 'தமிழ்']
+    def programming_languages(self):
+        return [
+            'Python', 'SQL', 'Java'
+        ]
+    def markup_languages(self):
+        return [
+            'HTML', 'CSS'
+        ]
+    def developer_tools(self):
+        return [
+            'GitHub', 'Stack Overflow', 'Docker', 'Heroku',
+            'MongoDB', 'MySQL', 'Azure'
+        ]
+    def operating_system(self):
+        return [
+            'Windows', 'Android', 'Linux'
+        ]
