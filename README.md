@@ -19,7 +19,7 @@
 
 
 <p align="center">
-<a href="https://t.me/SPA4KBRO"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/SPARKBR0"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
 
 <p align="center">
 <a href="https://github.com/SPARKBRO"><img title="SPARK BRO" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPARKBRO&layout=compact"></a></p>
